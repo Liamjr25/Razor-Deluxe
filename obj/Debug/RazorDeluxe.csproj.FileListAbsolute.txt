@@ -1,0 +1,15 @@
+\\Crawappsrv\mtech$\142301519\My Documents\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\bin\RazorDeluxe.dll
+\\Crawappsrv\mtech$\142301519\My Documents\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\bin\RazorDeluxe.pdb
+\\Crawappsrv\mtech$\142301519\My Documents\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\obj\Debug\RazorDeluxe.csprojResolveAssemblyReference.cache
+\\Crawappsrv\mtech$\142301519\My Documents\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\obj\Debug\RazorDeluxe.dll
+\\Crawappsrv\mtech$\142301519\My Documents\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\obj\Debug\RazorDeluxe.pdb
+D:\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\bin\RazorDeluxe.dll
+D:\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\bin\RazorDeluxe.pdb
+D:\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\obj\Debug\RazorDeluxe.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\obj\Debug\RazorDeluxe.dll
+D:\Visual Studio 2012\Projects\RazorDeluxe\RazorDeluxe\obj\Debug\RazorDeluxe.pdb
+D:\Visual Studio 2012\Projects\RazorDeluxe1\RazorDeluxe\bin\RazorDeluxe.dll
+D:\Visual Studio 2012\Projects\RazorDeluxe1\RazorDeluxe\bin\RazorDeluxe.pdb
+D:\Visual Studio 2012\Projects\RazorDeluxe1\RazorDeluxe\obj\Debug\RazorDeluxe.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\RazorDeluxe1\RazorDeluxe\obj\Debug\RazorDeluxe.dll
+D:\Visual Studio 2012\Projects\RazorDeluxe1\RazorDeluxe\obj\Debug\RazorDeluxe.pdb

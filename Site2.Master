@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="RazorDeluxe.Site2" %>
+
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+
+        .auto-style1 {
+            height: 21px;
+        }
+        .auto-style3 {
+            height: 23px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+       
+        
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder><asp:Label ID="lblFirstName" runat="server" style="text-shadow: 2px 2px 8px #aaff00;" Text="[user] "></asp:Label>
+        <table style="width:100%;> <tr>
+                    <td class="auto-style1">
+                    <tr>
+                    <td class="auto-style1"></td>
+                    <td class="auto-style1">&nbsp;</td>
+                    <td class="auto-style1">
+                        
+                        </td>
+                </tr>
+             <tr>
+                    <td class="auto-style1">&nbsp;</td>
+                    <td class="auto-style1">&nbsp;</td>
+                    <td class="auto-style1">&nbsp;</td>
+                </tr>
+        </table>
+             
+    </div>
+    </form>
+</body>
+</html>

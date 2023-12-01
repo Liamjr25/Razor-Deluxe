@@ -1,0 +1,122 @@
+﻿* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  
+  background-image: url(http://image.ibb.co/mnKxq5/back.jpg);
+}
+h1, a{
+  
+  font-family: "Inconsolata", sans-serif;
+  text-align: center;
+}
+ .link {
+   
+  color:black;
+   padding: 30px;
+   
+}
+.fixed-top {
+  
+ top: 0;
+ left: 0;
+ width: 100%;
+ padding: 0;
+}
+
+    .navbar-brand {
+      
+      font-size: 1.333em;
+      padding: 14px 0;
+      margin: 0 3em 0 1.5em;
+    }  
+.link:hover {
+  color: #EFDE1C;
+}
+    main {
+        margin-top: 100px;
+      }
+ .navbar a {
+ 
+      padding: 14px 16px;
+      width: 150px;
+      font-family: "Droid Sans", sans-serif;
+      text-decoration: none;
+    }
+nav a:visited {
+  color: black;
+}
+
+nav a {
+  outline: 1px black;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.description {
+  position: absolute;
+  left: 410px;
+  top: 230px;
+  transform: rotate(270deg);
+}
+.arrow {
+  position: absolute;
+  left: 225px;
+  bottom: -250px;
+}
+.link-mens {
+  position: absolute;
+  bottom: -291px;
+  left: 252px;
+}
+.wrongplace {
+   position: absolute;
+  bottom: -291px;
+  left: 580px;
+}
+.male-p {
+   position: absolute;
+  bottom: -440px;
+  left: 800px;
+   margin: auto;
+    width: 40%;
+}
+.women-pic {
+  position: absolute;
+  bottom: -820px;
+  left: 225px;
+}
+.stripes-logo {
+   position: absolute;
+  bottom: -780px;
+  left: 1100px;
+}
+.womens-rotate {
+  position: absolute;
+  left: 990px;
+  top: 780px;
+  transform: rotate(270deg);
+}
+.link-womens {
+  position: absolute;
+  bottom: -825px;
+  left: 1125px;
+}
+.womens-description {
+   position: absolute;
+  bottom: -940px;
+  left: 550px;
+   margin: auto;
+    width: 40%;
+}
+.virgil {
+    position: absolute;
+  bottom: -1325px;
+  left:550px;
+}
+.about-link {
+  position: absolute;
+  bottom: -1400px;
+  left:700px;
+}
